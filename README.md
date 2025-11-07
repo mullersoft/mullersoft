@@ -38,44 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🏢 [Office Property Management System](https://github.com/mullersoft/property-controller)
-**Stack:** Laravel, Vue.js, MySQL  
-Manage office assets and track ownership, availability, and usage reports.  
-
----
-
-### 💰 [Payroll Management System](https://github.com/mullersoft/smart-payroll)
-**Stack:** Laravel, Vue.js, MySQL  
-Enterprise-grade payroll system with authentication, reports, and exports.  
-
----
-
-### 🎉 [Event Management System](https://github.com/mullersoft/Event-Managment-System)
-**Stack:** MERN + Geospatial  
-Create, manage, and discover events with real-time location tracking.  
-
----
-
-### 💬 [MessageHub](https://github.com/mullersoft/MessageHub)
-**Stack:** MERN  
-Categorized message sharing platform with comments, likes, and shares.  
-
----
-
-### 🎵 [Music Management App](https://github.com/mullersoft/Muzic-Management-App)
-**Stack:** MERN + TypeScript  
-Manage songs, artists, albums, and genres through a clean modern UI.  
-
----
-
-### 🧠 [XSS Attack Detection (MSc Research)](https://github.com/mullersoft/XSS-Attack-detection-using-CNN-BiLSTM-Model-and-Online-Learning-Approach)
-**Stack:** Python, Flask, Node.js, CNN-BiLSTM  
-Detect XSS attacks using hybrid deep learning and online model updates.  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
