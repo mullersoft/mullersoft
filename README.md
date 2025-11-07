@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 
-🎓 I’m a **Software Engineer** with **BSc and MSc degrees** in Software Engineering from **Wollo University, Ethiopia**.  
+🎓 I’m a **Software Engineer** with **BSc and MSc degrees** in Software Engineering.  
 
 💡 My MSc research focused on **enhancing XSS attack detection using hybrid deep learning models (CNN-BiLSTM with online learning)** — merging **AI, cybersecurity, and real-world web systems**.  
 
