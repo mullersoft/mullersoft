@@ -83,22 +83,6 @@ Detect XSS attacks using hybrid deep learning and online model updates.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullersoft&layout=compact&theme=radical" height="170" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mullersoft&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Summary Stats  
-
-| Metric | Count |
-|--------|-------|
-| ⭐ **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/mullersoft?style=flat&color=yellow) |
-| 🔁 **Total Commits (last year)** | ![Commits](https://img.shields.io/github/commit-activity/y/mullersoft?style=flat&color=brightgreen) |
-| 🔃 **Total PRs** | ![PRs](https://img.shields.io/github/issues-pr-closed/mullersoft?style=flat&color=blue) |
-| 🐞 **Total Issues** | ![Issues](https://img.shields.io/github/issues-closed/mullersoft?style=flat&color=orange) |
-| 🌍 **Contributed to (last year)** | ![Contributions](https://img.shields.io/badge/contributed%20repos-✔️-informational) |
-
 ---
 
 ## 📫 Connect with Me  
@@ -108,11 +92,3 @@ Detect XSS attacks using hybrid deep learning and online model updates.
   <a href="https://www.linkedin.com/in/mulugeta-linger-0890bb19a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://aesthetic-stroopwafel-42b2f3.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
-
----
-
-## 💡 Quote  
-
-> “Building scalable, secure, and AI-assisted applications is my passion.  
-> I love turning ideas into working software solutions.”  
-> — *Mulugeta Linger*
